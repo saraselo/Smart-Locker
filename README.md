@@ -7,6 +7,9 @@ Mentor: Lejla Trebović
 
 Škola: Druga gimnazija Mostar
 
+![1ozadina](https://github.com/user-attachments/assets/6f8eca52-441b-442e-be17-4ee71445daf2)
+
+
 Kategorija: Innovation Challenge- FIT Challenge 2025
 
 1. Kratki opis projekta
