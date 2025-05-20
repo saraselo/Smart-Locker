@@ -1,8 +1,12 @@
 # Smart-Locker
 SMART LOCKER- Pametni ormarić od recikliranih komponenti
+
 Članovi tima: Šejla Ćumurija, Sara Šelo, Kenan Kajtaz, Fatih Ali Šabović, Omar Šegetalo
+
 Mentor: Lejla Trebović
+
 Škola: Druga gimnazija Mostar
+
 Kategorija: Innovation Challenge- FIT Challenge 2025
 
 1. Kratki opis projekta
@@ -18,10 +22,15 @@ ponašanje prema okolišu.
 
 3. Tehnički opis
 Komponente korištene u projektu:
+
 -Arduino Uno mikrokontroler
--RFID čitač MFRC-552(13.56 MHz) sa karticom i privjeskom 
+
+-RFID čitač MFRC-552(13.56 MHz) sa karticom i privjeskom
+
 -Servo motor za mehaničko otključavanje vrata ormarića
+
 -Napajanje(power bank ili adapter)
+
 -Reciklirana kućišta računara i karton za modeliranje 
 
 Način rada:
