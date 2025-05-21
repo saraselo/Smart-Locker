@@ -53,4 +53,4 @@ na odgovorno ponašanje prema tehnologiji i okolišu.  "Smart Locker" je primjer
 Ovaj prototip pametnog ormarića može se razvijati dodavanjem LCD ekrana, internet povezanosti (npr. ESP32) ili mobilne aplikacije za daljinsko 
 upravljanje. Projekat je fleksibilan i ima za primjenu u školama, bibliotekama , pa čak i poslovnim prostorima.
 
-https://drive.google.com/file/d/1NJtILVQ6kFRIvMhMWmabloDnBCST_CV_/view?usp=drivesdk
+https://drive.google.com/file/d/1NZx8H1R10e6WEkYEHlvAA2DznDx7rA__/view?usp=drivesdk
